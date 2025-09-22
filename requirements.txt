@@ -2,3 +2,4 @@ discord.py
 requests
 flask
 a2s
+python-dotenv
